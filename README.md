@@ -20,6 +20,7 @@ Anything changed after this statement will be marked below.
 
 Best Regard!
 Chao
-======================== I AM THE SEGREGATING LINE ======================================
+\newline
+========= I AM THE SEGREGATING LINE ==========
 
 ####### waiting for your contributes ########
