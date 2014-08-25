@@ -6,7 +6,7 @@ queue* create_queue()
 {
 	queue *_q = (queue*)malloc(sizeof(queue));
 
-	// base node initialized wih anything
+	// base node initialized with anything
 	_q->head = create_node(0x000000);
 	_q->tail = _q->head;
 
